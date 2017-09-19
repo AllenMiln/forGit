@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0311simpleintents" />
+            <option value="$PROJECT_DIR$/p0321simplebrowser" />
+            <option value="$PROJECT_DIR$/p0331sharedpreferences" />
+            <option value="$PROJECT_DIR$/p0341simplesqlite" />
+            <option value="$PROJECT_DIR$/p0351simplesqlitetwo" />
+            <option value="$PROJECT_DIR$/p0361sqlitequery" />
+            <option value="$PROJECT_DIR$/p0371sqliteinnerjoin" />
+            <option value="$PROJECT_DIR$/p0381sqlitetransaction" />
+            <option value="$PROJECT_DIR$/p0391sqliteonupgradedb" />
+            <option value="$PROJECT_DIR$/p0401layoutinflater" />
+            <option value="$PROJECT_DIR$/p0411layoutinflaterlist" />
+            <option value="$PROJECT_DIR$/p0421simplelist" />
+            <option value="$PROJECT_DIR$/p0431simplelistchoice" />
+            <option value="$PROJECT_DIR$/p0441simplelistevent" />
+            <option value="$PROJECT_DIR$/p0451expandeblelist" />
+            <option value="$PROJECT_DIR$/p0461expandablelistevents" />
+            <option value="$PROJECT_DIR$/p0481simpleadapter" />
+            <option value="$PROJECT_DIR$/p0491simpleadaptercustomone" />
+            <option value="$PROJECT_DIR$/p0501simpleadaptercustomtwo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

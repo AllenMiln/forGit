@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidLessonThree.iml" filepath="$PROJECT_DIR$/AndroidLessonThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0511simpleadapterdate/p0511simpleadapterdate.iml" filepath="$PROJECT_DIR$/p0511simpleadapterdate/p0511simpleadapterdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0521simplecursoradapter/p0521simplecursoradapter.iml" filepath="$PROJECT_DIR$/p0521simplecursoradapter/p0521simplecursoradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0531simplecursortreeadapter/p0531simplecursortreeadapter.iml" filepath="$PROJECT_DIR$/p0531simplecursortreeadapter/p0531simplecursortreeadapter.iml" />
+    </modules>
+  </component>
+</project>

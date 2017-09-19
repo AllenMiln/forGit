@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arcanoid/Arcanoid.iml" filepath="$PROJECT_DIR$/Arcanoid/Arcanoid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arcanoid-android/Arcanoid-android.iml" filepath="$PROJECT_DIR$/Arcanoid-android/Arcanoid-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arcanoid-desktop/Arcanoid-desktop.iml" filepath="$PROJECT_DIR$/Arcanoid-desktop/Arcanoid-desktop.iml" />
+    </modules>
+  </component>
+</project>
